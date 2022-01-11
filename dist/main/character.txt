@@ -1,0 +1,4 @@
+first=True
+first_price=0
+second=False
+second_price=200
